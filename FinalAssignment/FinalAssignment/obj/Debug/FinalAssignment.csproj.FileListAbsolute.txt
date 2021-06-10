@@ -1,0 +1,9 @@
+H:\Documents\Visual Studio 2013\Projects\FinalAssignment\FinalAssignment\bin\Debug\FinalAssignment.exe.config
+H:\Documents\Visual Studio 2013\Projects\FinalAssignment\FinalAssignment\bin\Debug\FinalAssignment.exe
+H:\Documents\Visual Studio 2013\Projects\FinalAssignment\FinalAssignment\bin\Debug\FinalAssignment.pdb
+H:\Documents\Visual Studio 2013\Projects\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.csprojResolveAssemblyReference.cache
+H:\Documents\Visual Studio 2013\Projects\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.Book.resources
+H:\Documents\Visual Studio 2013\Projects\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.Properties.Resources.resources
+H:\Documents\Visual Studio 2013\Projects\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.csproj.GenerateResource.Cache
+H:\Documents\Visual Studio 2013\Projects\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.exe
+H:\Documents\Visual Studio 2013\Projects\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.pdb
