@@ -1,0 +1,6 @@
+H:\Documents\Visual Studio 2013\Projects\BankManagement\BankManagement\bin\Debug\BankManagement.exe.config
+H:\Documents\Visual Studio 2013\Projects\BankManagement\BankManagement\bin\Debug\BankManagement.exe
+H:\Documents\Visual Studio 2013\Projects\BankManagement\BankManagement\bin\Debug\BankManagement.pdb
+H:\Documents\Visual Studio 2013\Projects\BankManagement\BankManagement\obj\Debug\BankManagement.csprojResolveAssemblyReference.cache
+H:\Documents\Visual Studio 2013\Projects\BankManagement\BankManagement\obj\Debug\BankManagement.exe
+H:\Documents\Visual Studio 2013\Projects\BankManagement\BankManagement\obj\Debug\BankManagement.pdb
